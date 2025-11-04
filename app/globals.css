@@ -24,3 +24,239 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.postcodeInput {
+  /* Rectangle 393 */
+
+  position: relative;
+  width: 197px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+
+  background: #f1f1f2;
+  border-radius: 2px;
+
+  padding-left: 10px;
+
+  /* PCP Pal Text */
+  font-family: "TikTok Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #161823;
+}
+
+.postcodeInputContainer {
+  /* Group 947 */
+
+  width: 197px;
+  height: 50px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.addressInput {
+  /* Address Line 2 */
+
+  width: 343px;
+  height: 50px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  /* Rectangle 393 */
+
+  box-sizing: border-box;
+
+  color: #0a0a0a;
+
+  font-family: "TikTok Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  background: #f1f1f2;
+  border-radius: 2px;
+
+  padding-left: 10px;
+}
+
+.dobInput {
+  /* Address Line 2 */
+
+  width: 100px;
+  height: 50px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  /* Rectangle 393 */
+
+  box-sizing: border-box;
+
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #f1f1f2;
+  border-radius: 2px;
+
+  text-align: center;
+
+  color: #0a0a0a;
+}
+
+.secureInput {
+  /* Address Line 2 */
+
+  width: 343px;
+  height: 50px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  /* Rectangle 393 */
+
+  box-sizing: border-box;
+
+  color: #0a0a0a;
+
+  font-family: "TikTok Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  background: #f1f1f2;
+  border-radius: 2px;
+
+  padding-left: 10px;
+
+  flex: auto;
+}
+
+.greatNews {
+  /* Great News, David, we’ve found 3 claims */
+
+  width: 343px;
+  height: 76px;
+
+  font-family: "TikTok Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+  /* or 119% */
+
+  color: #14d567;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.congratsFrame {
+  /* Frame 1217 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+
+  width: 343px;
+  height: 93px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.congratsText {
+  /* Congratulations (name) your claim is now submitted. */
+
+  width: 284px;
+  height: 93px;
+
+  /* PCP Pal Sub Title 1 */
+  font-family: "TikTok Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 31px;
+
+  color: #161823;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.regCheckFrame {
+  /* Frame 422 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 15px;
+
+  width: 343px;
+  height: 294.98px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.regCheckInner {
+  /* Frame 425 */
+
+  /* Auto layout */
+  padding: 10px 8px;
+  gap: 10px;
+
+  width: 343px;
+  height: 119.98px;
+
+  background: #f4f4f4;
+  border-radius: 8px;
+}
+
+.regPlate {
+  /* SG65 YBA */
+
+  width: 215.3px;
+  height: 31px;
+  left: 62px;
+  top: 52px;
+
+  font-family: "Charles Wright";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 41.3333px;
+  line-height: 69px;
+  /* or 167% */
+  text-align: center;
+
+  color: #161823;
+}
