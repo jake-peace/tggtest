@@ -64,8 +64,8 @@ const SignatureForm: React.FC = () => {
             y2="0.5"
             stroke="#161823"
             strokeOpacity="0.8"
-            stroke-linecap="round"
-            stroke-dasharray="5 5"
+            strokeLinecap="round"
+            strokeDasharray="5 5"
           />
         </svg>
         <div className="flex items-center">
